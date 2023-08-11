@@ -1,0 +1,4 @@
+pycord
+py-cord
+pyyaml
+requests
